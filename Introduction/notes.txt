@@ -8,3 +8,13 @@ Recursion calls itself however when it returns, it makes sure each return statem
 
 It's like a snake eaitng itself. The snake begguins to eat itself more and more. Howevr when it wants to get out it has to backtrack step by step backwars
 Each function will go back to the value it was called
+
+Fibunaci sequance with recursion is like a tree
+you keep going left until you get to the bottom then start going up and maybe sometimes to the right and you keep adding the values
+Once you reach the top with the left side (with the number added up), do the same for the right side
+After add both of them up and you get the final vallue you want to return
+            O
+           / \
+          L   R
+         / 
+        L
