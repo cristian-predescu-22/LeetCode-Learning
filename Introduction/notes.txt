@@ -1,0 +1,3 @@
+Time complexity is easy.
+
+Space complexity is the allocated memory. for example veirables that are used to store values from the algorithm
