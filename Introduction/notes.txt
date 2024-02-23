@@ -1,3 +1,10 @@
 Time complexity is easy.
 
 Space complexity is the allocated memory. for example veirables that are used to store values from the algorithm
+
+---
+
+Recursion calls itself however when it returns, it makes sure each return statemnt doesn't get out of the whoel main function, it goes back on itself.
+
+It's like a snake eaitng itself. The snake begguins to eat itself more and more. Howevr when it wants to get out it has to backtrack step by step backwars
+Each function will go back to the value it was called
