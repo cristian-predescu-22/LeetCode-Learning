@@ -1,3 +1,1 @@
 If array is sorted then we can use two pointers
-test
-now test user again - ive been amking chnages but subbmiting with diffrent name
